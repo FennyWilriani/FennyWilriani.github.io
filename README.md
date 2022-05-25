@@ -26,15 +26,15 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./assets/efflo.png)
 
 ## Technologies
 
-- Node 14.16.0
+- HTML & CSS
 - VSC code
-- JavaScript
-- ...
-- ...
+- Adobe Photoshop
+- Figma
+- Canva
 
 ## Setup
 
@@ -51,14 +51,14 @@ console.log("Hello World");
 
 List of features ready and Todos for future development
 
--
--
--
+- Responsive web design
+- Social media contact
+- Gallery
 
 To-do list:
 
--
--
+- Hover animation
+- Payment link
 
 ## Status
 
