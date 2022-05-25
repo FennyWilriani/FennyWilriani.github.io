@@ -1,3 +1,71 @@
-body {
-  background-color: white;
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&family=Lato:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Cormorant;
+}
+
+.general {
+  max-width: 100%;
+  height: 100vh;
+  background-image: url(../assets/flower.jpg);
+  background-size: cover;
+  background-color: lightgray;
+  background-blend-mode: multiply;
+  background-position: center;
+}
+
+.logo {
+  background-color: none;
+  width: 16rem;
+  border: .5px solid white;
+  padding: 1rem;
+  margin: 2rem;
+}
+
+.container {
+  padding: 3rem 6rem;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.line {
+  color: white;
+  font-size: 1.3rem;
+  padding: 2rem 6rem;
+}
+
+nav {
+  top: 27rem;
+  padding: 1rem 6rem;
+  display: flex;
+  align-items: center;
+}
+
+.style1 {
+  background-color: none;
+  border-radius: 5px;
+  border: solid white;
+  padding: .5rem;
+}
+
+.style2 {
+  background-color: none;
+  border-radius: 5px;
+  border: solid white;
+  padding: .5rem;
+  margin-left: 1.5rem;
+}
+
+nav ul li {
+  list-style: none;
+  margin: 0rem 2rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
 }
