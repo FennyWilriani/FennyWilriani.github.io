@@ -1,6 +1,15 @@
 # Name of project
 
-> A longer description
+Co-Design a website home page.
+
+In this project we try to build a homepage that is intuitive, user-friendly, and engaging. The *stakeholder interview* is conducted with one of the class partner from group 4 [(Inna)](https://github.com/inna9Z).
+
+Based on the interview and the stakeholder interest, I decided to create a simple website homepage that offers services for prop styling, special occasion and event florals, local deliveries, and walk-in services is also included upon request.
+
+The target audience is people during annual occasions and events; mother's day, valentine's day,
+anniversary, wedding, shop/corporate events etc.
+
+>Creating a custom bouquet for people's special days is a delicate thing that involved a lot of details that have to be considered, the service that offered is not only providing their favorite flower yet also designing flowers which involves the story and palette choices that match the mood of the event.
 
 ## Table of contents
 
@@ -22,7 +31,7 @@
 
 ## General info
 
-> A short description
+A Florist With A Passion For Design
 
 ## Screenshots
 
@@ -42,10 +51,7 @@
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
-```
+<img src="assets/cdsample.png" width="500" height="400">
 
 ## Features
 
@@ -66,7 +72,8 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+- Figma template
+- Google search
 
 ## Contact
 
